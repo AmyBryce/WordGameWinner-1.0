@@ -35,7 +35,6 @@
 				<int key="NSvFlags">292</int>
 				<string key="NSFrameSize">{323, 43}</string>
 				<reference key="NSSuperview"/>
-				<reference key="NSWindow"/>
 				<string key="NSReuseIdentifierKey">_NS:9</string>
 				<int key="IBUIContentMode">1</int>
 				<bool key="IBUIUserInteractionEnabled">NO</bool>
